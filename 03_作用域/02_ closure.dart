@@ -15,5 +15,4 @@ main(List<String> args) {
   print(addFunction2(2)); // 7
   print(addFunction2(5)); // 10
 
-
 }
